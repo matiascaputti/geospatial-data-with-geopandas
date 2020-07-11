@@ -1,4 +1,4 @@
-# Geospatial data with GeoPandas
+# Geospatial data with GeoPandas
 
 This post will show you a sneak peek of what geospatial visualization is and what can be done with it.
 
